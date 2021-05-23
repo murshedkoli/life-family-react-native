@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "lifeapp5",
-    "slug": "lifeapp5",
-    "version": "1.0.0",
+    "name": "Life Family Blood Group",
+    "slug": "BloodForLife",
+    "version": "1.2.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -23,7 +23,9 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.murshedkoli.lifeapp5",
+      "versionCode": 2
     },
     "web": {
       "favicon": "./assets/favicon.png"
